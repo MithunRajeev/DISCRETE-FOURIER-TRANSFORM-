@@ -6,7 +6,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-1.DIRECT METHOD
+## 1.DIRECT METHOD
 ```
 clc; 
 clear; 
@@ -42,7 +42,7 @@ xlabel('frequency(Hz)');
 ylabel('Phase'); 
 title('Phase spectrum'); 
 ```
-2.FFT Method
+## 2.FFT Method
 ```
 clear; 
 clc; 
